@@ -1,5 +1,11 @@
 # GeoAdmin
 
+## Tools will be divided into the following categories
+
+### Interface values for Reporting ie 'Get Domain Values'.  This list can be used to populate other tools.
+
+### Tools to be hooked up to Windows Scheduled Tasks.
+
 ## Domain Tools
 
 * Reorganize Domains in Alphabetic order.  Domains get out of order because they are in the order they were added.
