@@ -2,9 +2,9 @@
 
 ## Tools will be divided into the following categories
 
-### Interface values for Reporting ie 'Get Domain Values'.  This list can be used to populate other tools.
+Interface values for Reporting ie 'Get Domain Values'.  This list can be used to populate other tools.
 
-### Tools to be hooked up to Windows Scheduled Tasks.
+Tools to be hooked up to Windows Scheduled Tasks.
 
 ## Domain Tools
 
